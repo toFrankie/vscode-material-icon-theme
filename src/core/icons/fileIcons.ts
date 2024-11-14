@@ -2560,8 +2560,6 @@ export const fileIcons: FileIcons = {
         'sitemap.json',
       ],
     },
-    { name: 'qwik', fileExtensions: ['tsx'], enabledFor: [IconPack.Qwik] },
-    { name: 'mermaid', fileExtensions: ['mmd', 'mermaid'] },
     {
       name: 'alfred',
       fileExtensions: ['alfredworkflow', 'alfredpreferences'],
